@@ -1,0 +1,57 @@
+.abc
+{
+ font-size:40px;
+ font-family:"Raleway", sans-serif;
+ font-weight:bold;
+ color:#ffffff;
+ letter-spacing:1px;
+ text-align:center;
+ line-height:47px;
+ margin-top:30px;
+ margin-bottom:5px;
+}
+.subheading
+{
+ font-weight: 300;
+ font-size: 18px;
+ color:#ffffff;
+ letter-spacing:1px;
+ text-align:center;
+ margin-bottom:5px;
+}
+.backgrounds1
+{
+	background-image: url(../images/baner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #6d0203;
+   
+}
+.backgrounds2
+{
+	background-image: url(../images/banner1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #6d0203;
+    padding-top: 15px;
+	padding-bottom: 15px;  
+}
+.w3-myfont
+{
+font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+line-height: 1.5em;
+font-weight: 700;
+font-size: 19px;
+color: #444;
+}
+.w3-myfont1
+{
+font-family: "Titillium Web", sans-serif;
+line-height: 1.5em;
+font-size: 19px;
+color: #444;
+}
+.w3-tangerine {
+     font-family: "Lobster", serif;
+}.col-sm-12{	width:0px;}
+   

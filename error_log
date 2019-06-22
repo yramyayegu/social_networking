@@ -1,0 +1,47 @@
+[03-Mar-2017 10:23:21 Asia/Kolkata] PHP Fatal error:  Call to undefined function smsapi() in /home/nikeabc123/public_html/konnipatis.com/application/controllers/Welcome.php on line 102
+[03-Mar-2017 10:25:07 Asia/Kolkata] PHP Fatal error:  Call to undefined function smsapi() in /home/nikeabc123/public_html/konnipatis.com/application/controllers/Welcome.php on line 75
+[03-Mar-2017 10:33:00 Asia/Kolkata] PHP Fatal error:  Call to undefined function smsapi() in /home/nikeabc123/public_html/konnipatis.com/application/controllers/Welcome.php on line 72
+[03-Mar-2017 10:36:14 Asia/Kolkata] PHP Fatal error:  Call to undefined function smsapi() in /home/nikeabc123/public_html/konnipatis.com/application/controllers/Welcome.php on line 72
+[03-Mar-2017 11:14:27 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '*' in /home/nikeabc123/public_html/konnipatis.com/application/controllers/Welcome.php on line 172
+[03-Mar-2017 11:53:11 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'logout' (T_STRING), expecting ',' or ';' in /home/nikeabc123/public_html/konnipatis.com/application/views/header.php on line 25
+[03-Mar-2017 11:53:48 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'logout' (T_STRING), expecting ',' or ';' in /home/nikeabc123/public_html/konnipatis.com/application/views/header.php on line 25
+[03-Mar-2017 11:53:49 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'logout' (T_STRING), expecting ',' or ';' in /home/nikeabc123/public_html/konnipatis.com/application/views/header.php on line 25
+[03-Mar-2017 12:27:20 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/nikeabc123/public_html/konnipatis.com/application/controllers/Welcome.php on line 81
+[03-Mar-2017 12:33:23 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/nikeabc123/public_html/konnipatis.com/application/controllers/Welcome.php on line 81
+[03-Mar-2017 18:20:23 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/nikeabc123/public_html/konnipatis.com/application/views/addrequirement.php on line 126
+[03-Mar-2017 18:20:34 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/nikeabc123/public_html/konnipatis.com/application/views/addrequirement.php on line 126
+[03-Mar-2017 18:23:27 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/nikeabc123/public_html/konnipatis.com/application/views/addrequirement.php on line 126
+[03-Mar-2017 18:23:31 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/nikeabc123/public_html/konnipatis.com/application/views/addrequirement.php on line 126
+[03-Mar-2017 18:23:54 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/nikeabc123/public_html/konnipatis.com/application/views/addrequirement.php on line 126
+[03-Mar-2017 18:30:35 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/nikeabc123/public_html/konnipatis.com/application/views/addrequirement.php on line 126
+[03-Mar-2017 18:36:22 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/nikeabc123/public_html/konnipatis.com/application/views/addrequirement.php on line 130
+[03-Mar-2017 18:36:38 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/nikeabc123/public_html/konnipatis.com/application/views/addrequirement.php on line 130
+[03-Mar-2017 18:37:13 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/nikeabc123/public_html/konnipatis.com/application/views/addrequirement.php on line 130
+[06-Mar-2017 17:13:57 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 131334144 bytes) in /home/nikeabc123/public_html/konnipatis.com/application/views/register.php on line 209
+[06-Mar-2017 17:14:02 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 131334144 bytes) in /home/nikeabc123/public_html/konnipatis.com/application/views/register.php on line 209
+[07-Mar-2017 16:27:27 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/nikeabc123/public_html/konnipatis.com/application/controllers/Welcome.php on line 380
+[30-Nov-2018 08:31:12 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ''</span></p>' (T_ENCAPSED_AND_WHITESPACE) in /home3/theblam4/public_html/Artificial_Intelligence/application/controllers/Welcome.php on line 200
+[30-Nov-2018 09:05:20 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home3/theblam4/public_html/Artificial_Intelligence/application/controllers/Welcome.php on line 358
+[30-Nov-2018 09:21:17 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'none' (T_STRING), expecting ',' or ';' in /home3/theblam4/public_html/Artificial_Intelligence/application/controllers/Welcome.php on line 261
+[30-Nov-2018 10:56:55 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home3/theblam4/public_html/Artificial_Intelligence/application/controllers/Welcome.php on line 81
+[30-Nov-2018 11:17:38 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?>', expecting variable (T_VARIABLE) or '$' in /home3/theblam4/public_html/Artificial_Intelligence/application/views/feed.php on line 452
+[30-Nov-2018 11:45:45 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home3/theblam4/public_html/Artificial_Intelligence/application/controllers/Welcome.php on line 951
+[30-Nov-2018 12:17:37 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home3/theblam4/public_html/Artificial_Intelligence/application/controllers/Welcome.php on line 272
+[30-Nov-2018 14:23:07 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home3/theblam4/public_html/Artificial_Intelligence/application/views/feed.php on line 417
+[30-Nov-2018 14:24:58 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home3/theblam4/public_html/Artificial_Intelligence/application/views/feed.php on line 417
+[30-Nov-2018 14:25:19 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home3/theblam4/public_html/Artificial_Intelligence/application/views/feed.php on line 417
+[30-Nov-2018 15:02:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home3/theblam4/public_html/Artificial_Intelligence/application/controllers/Welcome.php on line 73
+[30-Nov-2018 15:05:46 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home3/theblam4/public_html/Artificial_Intelligence/application/views/feed.php on line 417
+[30-Nov-2018 15:40:22 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home3/theblam4/public_html/Artificial_Intelligence/application/views/feed.php on line 405
+[30-Nov-2018 19:45:38 Asia/Bangkok] PHP Fatal error:  Call to undefined function NOW() in /home3/theblam4/public_html/Artificial_Intelligence/application/controllers/Welcome.php on line 476
+[30-Nov-2018 20:01:21 Asia/Bangkok] PHP Fatal error:  Call to undefined method User_model::getcomments() in /home3/theblam4/public_html/Artificial_Intelligence/application/controllers/Welcome.php on line 88
+[30-Nov-2018 18:44:46 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '**' (T_POW) in /home3/theblam4/public_html/Artificial_Intelligence/application/controllers/Welcome.php on line 304
+[30-Nov-2018 18:45:01 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home3/theblam4/public_html/Artificial_Intelligence/application/controllers/Welcome.php on line 328
+[30-Nov-2018 18:46:14 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home3/theblam4/public_html/Artificial_Intelligence/application/controllers/Welcome.php on line 328
+[30-Nov-2018 18:46:21 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home3/theblam4/public_html/Artificial_Intelligence/application/controllers/Welcome.php on line 328
+[01-Dec-2018 00:10:03 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '}' in /home3/theblam4/public_html/Artificial_Intelligence/application/views/feed.php on line 437
+[01-Dec-2018 00:17:09 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in /home3/theblam4/public_html/Artificial_Intelligence/application/views/feed.php on line 745
+[30-Nov-2018 23:38:49 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ''user_image\'] ?>" width="25" ' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) in /home3/theblam4/public_html/Artificial_Intelligence/application/controllers/Welcome.php on line 327
+[30-Nov-2018 23:52:50 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home3/theblam4/public_html/Artificial_Intelligence/application/controllers/Welcome.php on line 341
+[30-Nov-2018 23:59:11 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$pic' (T_VARIABLE), expecting ',' or ';' in /home3/theblam4/public_html/Artificial_Intelligence/application/controllers/Welcome.php on line 340
+[20-Jun-2019 21:39:42 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home3/theblam4/public_html/emc2india/batch3/system/libraries/Session/drivers/Session_files_driver.php on line 201
